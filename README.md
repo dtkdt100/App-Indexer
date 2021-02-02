@@ -1,8 +1,8 @@
-## App Indexer
+# App Indexer
 
 You know it when you publish an app and you always want to know what position is it?
 
-# App Idexer does it for you!
+## App Idexer does it for you!
 
 App Indexer - Your new tracker throughout google play
 

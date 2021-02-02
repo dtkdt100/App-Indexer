@@ -1,16 +1,13 @@
-# app_index_for_developers
+## App Indexer
 
-A new Flutter application.
+You know it when you publish an app and you always want to know what position is it?
 
-## Getting Started
+# App Idexer does it for you!
 
-This project is a starting point for a Flutter application.
+App Indexer - Your new tracker throughout google play
 
-A few resources to get you started if this is your first Flutter project:
+Add an app by putting your package id, type some key searches, App Indexer will track your position in google play.
+It will show you grafhs, numbers and your improvement.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+You can chose ANY country you would like! If you want to know where is your app, in Antarctica, Belgium, France and many many more, you can!
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
